@@ -1,10 +1,3 @@
-
-dist/
-
-build/
-
-__pycache__/
-
-Huskos SteamWorkshop Downloader.spec
-
-configs/
+.vs
+obj
+bin
