@@ -1,0 +1,24 @@
+{
+  "version": "0.0.1",
+  "games": {
+    "10101010": {
+      "commands": [
+        {
+          "type": "rename",
+          "old": "game",
+          "new": "game_id"
+        },
+        {
+          "type": "move",
+          "old": "game_id",
+          "new": "game_id_old"
+        },
+        {
+          "type": "copy",
+          "old": "game_id",
+          "new": "game_id_old"
+        }
+      ]
+    }
+  }
+}
